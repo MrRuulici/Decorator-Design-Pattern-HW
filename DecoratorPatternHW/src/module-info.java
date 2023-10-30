@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Raulitos
+ *
+ */
+module DecoratorPatternHW {
+}
